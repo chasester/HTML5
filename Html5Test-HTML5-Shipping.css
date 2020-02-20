@@ -10,6 +10,7 @@
 html, body, .container {
 	height: 100%;
 	font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+	background-color: black;
 }
 
 .h4, h4 {
